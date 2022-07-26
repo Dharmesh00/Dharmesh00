@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dharmesh00
 - 👀 I’m interested in Full stack Developing
-- 🌱 I’m currently learning HTML, Css, Javascript, Php, SQl, Python, Image Processing
+- 🌱 I’m currently learning Html&Css, Java Script, Bootstrap, Sql, C Sharp, Entity Framework, DSA, ASP.net MVC, React Js, ASP.net WebApi, Unit&Integration Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
