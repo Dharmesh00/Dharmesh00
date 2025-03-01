@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dharmesh00
 - 👀 I’m interested in Full stack Developing
-- 🌱 I’m currently learning Html&Css, Java Script, Bootstrap, Sql, C Sharp, Entity Framework, DSA, ASP.net MVC, React Js, ASP.net WebApi, Unit&Integration Testing
+- 🌱 I have done internship as Dotnet Fullstack Developer Html&Css, Java Script, Bootstrap, Sql, C Sharp, Entity Framework, DSA, ASP.net MVC, React Js, ASP.net WebApi, Unit&Integration Testing
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
